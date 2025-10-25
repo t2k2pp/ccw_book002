@@ -506,7 +506,7 @@ AMDが公式にベンチマークした結果：
 - タワー型ケース
 
 **Strix Halo環境：**
-- Minisforum BD790i (AI Max+ 395)
+- Minisforum MS-S1 MAX (AI Max+ 395)
 - 128GB LPDDR5X-7500
 - 手のひらサイズ
 

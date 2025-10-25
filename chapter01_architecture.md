@@ -340,7 +340,8 @@ Strix Haloは様々なフォームファクタで展開されています。
 #### ミニPC
 
 **代表製品：**
-- Minisforum BD790i / AtomMan G7 Pt
+- Minisforum MS-S1 MAX
+- GMKtec EVO-X2
 - Geekom A9
 - AYANEO Retro Mini PC AM02
 

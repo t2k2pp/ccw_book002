@@ -114,10 +114,10 @@ Strix Halo は、その手助けをしてくれます。
 
 | メーカー | モデル | RAM | ストレージ | 価格帯（USD） |
 |---------|--------|-----|----------|--------------|
-| **Minisforum** | BD790i | 32-128GB | 1-4TB | $1,399-2,299 |
-| **Minisforum** | AtomMan G7 Pt | 64-128GB | 2-4TB | $1,799-2,599 |
-| **Geekom** | A9 | 32-96GB | 1-2TB | $1,299-1,999 |
-| **AYANEO** | Retro Mini PC AM02 | 64GB | 2TB | $1,599 |
+| **Minisforum** | MS-S1 MAX | 96-128GB | 2-4TB | $1,899-2,699 |
+| **GMKtec** | EVO-X2 | 64-128GB | 1-2TB | $1,699-2,399 |
+| **Geekom** | A9 | 64-128GB | 1-2TB | $1,699-2,299 |
+| **AYANEO** | Retro Mini PC AM02 | 64-96GB | 2TB | $1,699-2,099 |
 
 #### ノートPC
 

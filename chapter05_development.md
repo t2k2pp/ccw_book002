@@ -629,7 +629,7 @@ GPU レンダリングでRTX専用GPUには及ばないが、CPU+GPUハイブリ
 
 **人物：** 鈴木太郎さん（仮名）、フリーランスゲーム開発者
 
-**使用機器：** Minisforum BD790i (Strix Halo), 27インチ4Kモニター
+**使用機器：** Minisforum MS-S1 MAX (Strix Halo), 27インチ4Kモニター
 
 **1日のワークフロー：**
 

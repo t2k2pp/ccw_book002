@@ -18,7 +18,7 @@
 
 #### Strix Halo導入後の変化
 
-**使用機器：** Minisforum BD790i (AI Max+ 395, 128GB)
+**使用機器：** Minisforum MS-S1 MAX (AI Max+ 395, 128GB)
 
 **主な用途：**
 1. 学習済みモデルの評価・検証
@@ -110,7 +110,7 @@ Strix Halo搭載ノートPC（ROG Flow Z13）
 #### 解決策：Strix Halo ミニPC 3台導入
 
 **導入機器：**
-- Minisforum BD790i × 3台
+- Minisforum MS-S1 MAX × 3台
 - メンバー個人PCは作業用、開発ビルドはStrix Haloで
 
 **運用方法：**
@@ -376,7 +376,7 @@ whisper audio.wav --model large-v3 --language ja --task transcribe
 
 #### Strix Halo導入と教育への応用
 
-**使用機器：** Minisforum BD790i × 2台
+**使用機器：** Minisforum MS-S1 MAX × 2台
 
 **運用方法：**
 生徒がリモート接続して使用できる「共有マシン」として設置。
@@ -474,7 +474,7 @@ whisper audio.wav --model large-v3 --language ja --task transcribe
 #### Strix Halo ミニPCへの統合
 
 **新構成：**
-- Minisforum BD790i（Strix Halo）1台
+- Minisforum MS-S1 MAX（Strix Halo）1台
 - 消費電力：アイドル15W、高負荷時80W
 
 **実行サービス（すべて同時起動）：**
